@@ -1,5 +1,3 @@
-# Interesting_things
-
 # Cite(Link)
 
 - https://turi.com/
