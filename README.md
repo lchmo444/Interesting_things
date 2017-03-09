@@ -1,3 +1,7 @@
+# Machine learning contribution
+- VLADIMIR VAPNIK
+- geoffrey hinton
+
 # Cite(Link)
 
 - https://turi.com/
