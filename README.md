@@ -1,4 +1,4 @@
-# Machine learning contributer
+-# Machine learning contributer
 - VLADIMIR VAPNIK
 - geoffrey hinton
 
@@ -23,6 +23,7 @@
 - Linear_programming
 
 
-# Another
+# Anothers
 
 - http://stats.stackexchange.com/questions/104713/hold-out-validation-vs-cross-validation
+- https://www.slideshare.net/guestfee8698/crossvalidation
