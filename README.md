@@ -21,3 +21,8 @@
 
 # Subject
 - Linear_programming
+
+
+# Another
+
+- http://stats.stackexchange.com/questions/104713/hold-out-validation-vs-cross-validation
