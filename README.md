@@ -9,6 +9,8 @@
 - https://www.tensorflow.org/
 - https://www.datadoghq.com/
 
+- http://cs229.stanford.edu/materials.html
+
 # Watching
 
 - https://www.youtube.com/watch?v=u9s_W8lCrDU
