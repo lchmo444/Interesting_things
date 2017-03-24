@@ -1,4 +1,4 @@
--# Machine learning contributer
+# Machine learning contributer
 - VLADIMIR VAPNIK
 - geoffrey hinton
 
