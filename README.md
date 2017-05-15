@@ -1,6 +1,7 @@
 # Machine learning contributer
 - VLADIMIR VAPNIK
 - geoffrey hinton
+- Stephen P. Boyd
 
 # Cite(Link)
 
