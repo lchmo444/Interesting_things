@@ -5,6 +5,9 @@
 
 # Cite(Link)
 
+- https://www.youtube.com/watch?v=jNBYZbDWyQk
+
+
 - https://turi.com/
 - http://electron.atom.io/
 - https://www.tensorflow.org/
