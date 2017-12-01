@@ -3,11 +3,14 @@
 - geoffrey hinton
 - Stephen P. Boyd
 
+# Free Paper
+
+- https://arxiv.org/list/cs/recent
+
+
 # Cite(Link)
 
 - https://www.youtube.com/watch?v=jNBYZbDWyQk
-
-
 - https://turi.com/
 - http://electron.atom.io/
 - https://www.tensorflow.org/
@@ -31,3 +34,5 @@
 
 - http://stats.stackexchange.com/questions/104713/hold-out-validation-vs-cross-validation
 - https://www.slideshare.net/guestfee8698/crossvalidation
+
+
