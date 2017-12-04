@@ -3,6 +3,9 @@
 - geoffrey hinton
 - Stephen P. Boyd
 
+# Researcher
+- Richard Socher
+
 # Free Paper
 
 - https://arxiv.org/list/cs/recent
