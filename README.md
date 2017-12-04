@@ -4,6 +4,7 @@
 - Stephen P. Boyd
 
 # Researcher
+- Katherine Heller
 - Finale Doshi-Velez
 - Chris De Sa
 - Yudong Chen
