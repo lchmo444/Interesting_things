@@ -4,6 +4,7 @@
 - Stephen P. Boyd
 
 # Researcher
+- Serge Belongie
 - Yoav Artzi
 - Richard Socher
 - Emma Brunskill
