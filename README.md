@@ -4,6 +4,7 @@
 - Stephen P. Boyd
 
 # Researcher
+- Chris De Sa
 - Yudong Chen
 - Serge Belongie
 - Yoav Artzi
