@@ -6,6 +6,7 @@
 # Researcher
 - Richard Socher
 - Emma Brunskill
+- Cynthia Rudin
 
 # Free Paper
 
