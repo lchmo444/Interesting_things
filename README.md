@@ -5,6 +5,7 @@
 
 # Researcher
 - Richard Socher
+- Emma Brunskill
 
 # Free Paper
 
