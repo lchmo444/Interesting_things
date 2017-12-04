@@ -4,9 +4,11 @@
 - Stephen P. Boyd
 
 # Researcher
+- Yoav Artzi
 - Richard Socher
 - Emma Brunskill
 - Cynthia Rudin
+- Jayadev  Acharya
 
 # Free Paper
 
