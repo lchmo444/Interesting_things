@@ -4,6 +4,7 @@
 - Stephen P. Boyd
 
 # Researcher
+- Finale Doshi-Velez
 - Chris De Sa
 - Yudong Chen
 - Serge Belongie
