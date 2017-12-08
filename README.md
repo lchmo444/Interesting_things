@@ -2,6 +2,7 @@
 - VLADIMIR VAPNIK
 - geoffrey hinton
 - Stephen P. Boyd
+- Sepp Hochreiter
 
 # Researcher
 - Katherine Heller
