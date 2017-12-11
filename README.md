@@ -16,6 +16,7 @@
 - Emma Brunskill
 - Cynthia Rudin
 - Jayadev  Acharya
+- Kevin Duh
 
 # Free Paper
 
