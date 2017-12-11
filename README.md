@@ -5,6 +5,7 @@
 - Sepp Hochreiter
 
 # Researcher
+- Raman Arora
 - Katherine Heller
 - Finale Doshi-Velez
 - Chris De Sa
