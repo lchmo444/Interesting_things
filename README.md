@@ -4,8 +4,11 @@
 - Stephen P. Boyd
 - Sepp Hochreiter
 
-# Researcher
+# Researcher 1
 - Kenji Fukumizu
+- Universita' di Genova
+
+# Researcher 2
 - Raman Arora
 - Katherine Heller
 - Finale Doshi-Velez
