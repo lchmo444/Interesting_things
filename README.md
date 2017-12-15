@@ -5,6 +5,7 @@
 - Sepp Hochreiter
 
 # Researcher
+- Kenji Fukumizu
 - Raman Arora
 - Katherine Heller
 - Finale Doshi-Velez
