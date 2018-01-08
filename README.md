@@ -6,7 +6,7 @@
 
 # Researcher 1
 - Kenji Fukumizu
-- Universita' di Genova
+- Cho-Jui Hsieh
 
 # Researcher 2
 - Raman Arora
