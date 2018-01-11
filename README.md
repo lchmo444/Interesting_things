@@ -3,6 +3,7 @@
 - geoffrey hinton
 - Stephen P. Boyd
 - Sepp Hochreiter
+- John C. Platt
 
 # Researcher 1
 - Kenji Fukumizu
