@@ -6,7 +6,7 @@
 - John C. Platt
 
 # Researcher 1
-- Mehryar Mohri
+- **Mehryar Mohri**
 - Kenji Fukumizu
 - Cho-Jui Hsieh
 
