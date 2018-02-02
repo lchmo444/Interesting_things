@@ -7,6 +7,7 @@
 
 # Researcher 1
 - **Mehryar Mohri**
+- Julie Nutini
 - Kenji Fukumizu
 - Cho-Jui Hsieh
 
