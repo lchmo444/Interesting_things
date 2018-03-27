@@ -6,6 +6,7 @@
 - John C. Platt
 
 # Researcher 1
+- Yung-Kyun Noh
 - **Mehryar Mohri**
 - Julie Nutini
 - Kenji Fukumizu
