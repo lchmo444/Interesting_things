@@ -13,6 +13,7 @@
 - Cho-Jui Hsieh
 
 # Researcher 2
+- **Gary D Stormo**
 - Raman Arora
 - Katherine Heller
 - Finale Doshi-Velez
