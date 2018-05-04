@@ -6,6 +6,7 @@
 - John C. Platt
 
 # Researcher 1
+- Dawn Song
 - Yung-Kyun Noh
 - **Mehryar Mohri**
 - Julie Nutini
