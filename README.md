@@ -6,6 +6,7 @@
 - John C. Platt
 
 # Researcher 1
+- Tim Nugent
 - Yu-Feng Li
 - Dawn Song
 - Yung-Kyun Noh
